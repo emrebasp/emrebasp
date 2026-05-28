@@ -1,6 +1,6 @@
 Hello,
 
-I am Emre Baspinar. I am a researcher in computational neuroscience.
+I am Emre Baspinar. I am a researcher in (computational) neuroscience.
 I am currently working in Inria (Montpellier), within MathNeuro Team as a permanent researcher.
 My research is in mathematical and computational neuroscience for pathological and normal 
 brain states, and based on three axes:
